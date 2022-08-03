@@ -1,6 +1,6 @@
-<img src="https://external-preview.redd.it/tEjHzGkJ6fa2ZptQNtBm6jeruaspGmAD8nmzhd3ni3s.png?auto=webp&s=6cfc1642d21b76741b7f33192d1cb9202dcab08d" width="50%"  align="right">
+<img src="https://user-images.githubusercontent.com/96388454/182560504-b6a596c5-ca6e-4360-a3db-a9b70d36968c.gif" width="40%"  align="right">
 
-
+<!-- ![RigidGlumEnglishpointer-size_restricted](https://user-images.githubusercontent.com/96388454/182561218-55cbaa5e-d35f-4ca8-a85e-9588ce096be5.gif) -->
 
 <h1 align="left">Hi there, I'm Burak Gülmez <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50> </h1>
 <h3 align="left">A passionate Turkish software student in the field of front end who trying to improve yourself with the growing technology.
