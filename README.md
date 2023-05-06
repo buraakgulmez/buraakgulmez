@@ -1,5 +1,5 @@
 <!-- <img src="https://user-images.githubusercontent.com/96388454/182560504-b6a596c5-ca6e-4360-a3db-a9b70d36968c.gif" width="45%"  align="right"> -->
-<img src ="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" width="45%" align="right">
+<img src ="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFkNzFiOTEyMTg0MDczN2RlNjA4MDFlNTk0MmEyZjhiYzliNWE4MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif)" width="45%" align="right">
 
 <!-- ![RigidGlumEnglishpointer-size_restricted](https://user-images.githubusercontent.com/96388454/182561218-55cbaa5e-d35f-4ca8-a85e-9588ce096be5.gif) -->
 
