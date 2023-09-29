@@ -4,7 +4,7 @@
 <!-- ![RigidGlumEnglishpointer-size_restricted](https://user-images.githubusercontent.com/96388454/182561218-55cbaa5e-d35f-4ca8-a85e-9588ce096be5.gif) -->
 
 <h1 align="left">Hi there, I'm Burak Gülmez <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50> </h1>
-<h3 align="left">A passionate Turkish software student in the field of front end who trying to improve yourself with the growing technology.
+<h3 align="left">Teknolojinin hızlı değişimine ayak uydurarak front-end geliştirme alanında yeni beceriler kazanmayı ve kendimi güncel tutmayı amaçlıyorum. Front-end geliştirme benim için sadece bir meslek değil, aynı zamanda bir tutku. Bu tutkuyu her projede daha ileriye taşıma hedefiyle çalışıyorum.
 </h2>
 
 <div size='25px'> 
