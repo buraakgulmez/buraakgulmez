@@ -5,7 +5,7 @@
 
 <h1 align="left">Merhaba, ben Burak Gülmez <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50> </h1>
 <h3 align="left">Teknolojinin hızlı değişimine ayak uydurarak front-end geliştirme alanında yeni beceriler kazanmayı ve kendimi güncel tutmayı amaçlıyorum. Front-end geliştirme benim için sadece bir meslek değil, aynı zamanda bir tutku. Bu tutkuyu her projede daha ileriye taşıma hedefiyle çalışıyorum.
-</h2>
+</h3>
 
 <div size='25px'> 
 <p align='left'>
